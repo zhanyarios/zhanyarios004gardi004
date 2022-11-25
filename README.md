@@ -1,20 +1,18 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Jigar Sable </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.snapchat.com/add/zhanyar_004" target="_blank"> Zhanyar Gardi</a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://t.me/ZhanyarStore" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/jigarsable.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:zhanyar.store@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/ZhanyarStore"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
@@ -67,11 +65,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=zhanyar004&show_icons=true&theme=dark&locale=en" alt="zhanyar004" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhanyar004&show_icons=true&theme=dark&locale=en&layout=compact" alt="zhanyar004" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhanyar004&theme=dark" alt="zhanyar004" /></p>
   </div>
