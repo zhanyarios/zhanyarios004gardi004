@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:zhanyar.store@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.snapchat.com/add/zhanyar_004"><img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-FFFF00?style=for-the-badge&logo=snapchat&logoColor=white"/></a>
+  <a href="https://www.snapchat.com/add/zhanyar_004"><img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-FFFF0?style=for-the-badge&logo=snapchat&logoColor=white"/></a>
   <a href="https://t.me/ZhanyarStore"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
