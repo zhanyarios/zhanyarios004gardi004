@@ -69,8 +69,7 @@
    <td><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyar004&hide=PHP,html,c&theme=onedark&hide_border=true&line_height=27">
    </td>
    <td><img src="https://github-readme-stats.vercel.app/api?username=zhanyar004&show_icons=true&theme=dark&locale=en" alt="zhanyar004" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zhanyar004&show_icons=true&theme=dark&locale=en&layout=compact" alt="zhanyar004" /></td>
-  </tr>
+    </tr>
 </table>
 
 <div align="center">
