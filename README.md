@@ -66,6 +66,9 @@
 
 <table>
   <tr>
+<td>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
+</td>
    <td><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyarios004gardi004&theme=onedark&=true&line_height=27">
    </td>
    <td><img src="https://github-readme-stats.vercel.app/api?username=zhanyarios004gardi004&show_icons=true&theme=dark&locale=en" alt="zhanyarios004gardi004" /></td>
