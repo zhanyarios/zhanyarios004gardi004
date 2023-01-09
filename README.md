@@ -66,12 +66,12 @@
 
 <table>
   <tr>
-   <td><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyar004&theme=onedark&hide_border=true&line_height=27">
+   <td><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyarios004gardi004&theme=onedark&hide_border=true&line_height=27">
    </td>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=zhanyar004&show_icons=true&theme=dark&locale=en" alt="zhanyar004" /></td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=zhanyarios004gardi004&show_icons=true&theme=dark&locale=en" alt="zhanyarios004gardi004" /></td>
     </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhanyar004&theme=dark" alt="zhanyar004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhanyarios004gardi004&theme=dark" alt="zhanyarios004gardi004" /></p>
   </div>
