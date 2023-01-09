@@ -66,7 +66,7 @@
 
 <table>
   <tr>
-   <td><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyarios004gardi004&theme=onedark&hide_border=true&line_height=27">
+   <td><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyarios004gardi004&theme=onedark&=true&line_height=27">
    </td>
    <td><img src="https://github-readme-stats.vercel.app/api?username=zhanyarios004gardi004&show_icons=true&theme=dark&locale=en" alt="zhanyarios004gardi004" /></td>
     </tr>
