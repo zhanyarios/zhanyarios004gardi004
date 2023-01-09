@@ -67,7 +67,10 @@
 <table>
   <tr>
 <td>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhanyarios004gardi004&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a><br><a href="https://github.com/zhanyarios004gardi004/zhanyarios004gardi004"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyarios004gardi004&layout=compact&theme=buefy&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhanyarios004gardi004&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a>
+</td>
+<td>
+<a href="https://github.com/zhanyarios004gardi004/zhanyarios004gardi004"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanyarios004gardi004&layout=compact&theme=buefy&hide_border=true" /></a>
 </td>
    </tr>
 </table>
