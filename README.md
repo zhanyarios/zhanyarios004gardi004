@@ -1,15 +1,6 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.snapchat.com/add/zhanyar_004" target="_blank"> Zhanyar Gardi</a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-- 🌱 Learning Never Stops 🚀
-
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
-
-- 👨‍💻 Check out my personal portfolio : **<a href="https://t.me/ZhanyarStore" target="_blank">Portfolio</a>**
-
-- 😄 Pronouns: He/His
-
-
 <table>
   <tr>
 <td>
